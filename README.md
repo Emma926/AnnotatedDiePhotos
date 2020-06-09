@@ -3,6 +3,12 @@
 ## Apple A8
 ![A8](https://github.com/Emma926/AnnotatedDiePhotos/blob/master/A8_annotated.png)
 
+## Apple A9
+![A8](https://github.com/Emma926/AnnotatedDiePhotos/blob/master/A9_annotated.png)
+
+## Apple A10
+![A8](https://github.com/Emma926/AnnotatedDiePhotos/blob/master/A10_annotated.png)
+
 ## Apple A11
 ![A11](https://github.com/Emma926/AnnotatedDiePhotos/blob/master/A11_annotated.jpg)
 
