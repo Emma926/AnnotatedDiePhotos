@@ -1,5 +1,9 @@
 # [Harvard Die Photo Anlysis Project](http://vlsiarch.eecs.harvard.edu/research/accelerators/die-photo-analysis/)
 
+## Number of IP blocks
+![Count](https://github.com/Emma926/AnnotatedDiePhotos/blob/master/ip_blocks.pdf)
+
+
 ## Apple A8
 ![A8](https://github.com/Emma926/AnnotatedDiePhotos/blob/master/A8_annotated.png)
 
